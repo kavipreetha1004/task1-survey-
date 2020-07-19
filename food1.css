@@ -1,0 +1,53 @@
+body {
+text-align:center;
+background-color: violet;
+}
+#survey-form {
+background-color: violet;
+width:900px;
+margin:0 auto;
+}
+.row-tab {
+display:block;
+padding-top:20px;
+background-color: violet;
+}
+.label-burger{
+display:inline-block;
+width:40%;
+text-align:right;
+
+}
+.input-burger {
+display:inline-block;
+text-align:left;
+width:40%;
+}
+.select-input {
+display:inline-block;
+text-align:left;
+width:40%;
+}
+.label-select {
+display:inline-block;
+width:40%;
+text-align:right;
+}
+.labels-radio {
+display:inline-block;
+width:40%;
+text-align:right;
+vertical-align:top;
+}
+.input-radio {
+display:inline-block;
+text-align:left;
+width:40%;
+}
+.banner-image {
+
+ 
+  background-color: violet;
+  background-size: cover;
+}
+
